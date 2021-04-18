@@ -10,7 +10,7 @@ ul li {
   border: 1px solid #aaa;
 }
 .todo-done {
-  opacity: 30%;
+  opacity: 0.3;
 }
 .page {
   margin: 10px;
