@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/easyreact/static/css/main.b5e4ea2f.chunk.css",
+    "main.css": "/easyreact/static/css/main.b654f971.chunk.css",
     "main.js": "/easyreact/static/js/main.35a5603b.chunk.js",
     "main.js.map": "/easyreact/static/js/main.35a5603b.chunk.js.map",
     "runtime-main.js": "/easyreact/static/js/runtime-main.3e142f82.js",
@@ -8,13 +8,13 @@
     "static/js/2.44834f7c.chunk.js": "/easyreact/static/js/2.44834f7c.chunk.js",
     "static/js/2.44834f7c.chunk.js.map": "/easyreact/static/js/2.44834f7c.chunk.js.map",
     "index.html": "/easyreact/index.html",
-    "static/css/main.b5e4ea2f.chunk.css.map": "/easyreact/static/css/main.b5e4ea2f.chunk.css.map",
+    "static/css/main.b654f971.chunk.css.map": "/easyreact/static/css/main.b654f971.chunk.css.map",
     "static/js/2.44834f7c.chunk.js.LICENSE.txt": "/easyreact/static/js/2.44834f7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3e142f82.js",
     "static/js/2.44834f7c.chunk.js",
-    "static/css/main.b5e4ea2f.chunk.css",
+    "static/css/main.b654f971.chunk.css",
     "static/js/main.35a5603b.chunk.js"
   ]
 }
